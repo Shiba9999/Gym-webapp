@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Shiba9999/Gym-webapp/static/css/main.73f5ba94.css",
+    "main.js": "/Shiba9999/Gym-webapp/static/js/main.e8d153ac.js",
+    "static/js/787.94fb7aff.chunk.js": "/Shiba9999/Gym-webapp/static/js/787.94fb7aff.chunk.js",
+    "static/media/banner.png": "/Shiba9999/Gym-webapp/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/Shiba9999/Gym-webapp/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Shiba9999/Gym-webapp/index.html",
+    "main.73f5ba94.css.map": "/Shiba9999/Gym-webapp/static/css/main.73f5ba94.css.map",
+    "main.e8d153ac.js.map": "/Shiba9999/Gym-webapp/static/js/main.e8d153ac.js.map",
+    "787.94fb7aff.chunk.js.map": "/Shiba9999/Gym-webapp/static/js/787.94fb7aff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f5ba94.css",
+    "static/js/main.e8d153ac.js"
+  ]
+}
