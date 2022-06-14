@@ -1,10 +1,10 @@
-import { Button, Link, Stack, Typography } from "@mui/material";
+import { Button, Stack, Typography } from "@mui/material";
 import React from "react";
+import { Link } from "react-router-dom";
 
-const ExerciseCard = ({ key, exercise }) => {
-  console.log("exercise", exercise);
+const ExerciseCard = ({  exercise }) => {
   return (
-    <Link className="exercise-card" to={`/exercise/${exercise.id}`}>
+    <Link className="exercise-card" to={`exercise/${exercise.id}`}>
       <img src={exercise.gifUrl} alt={exercise.name} loading="lazy" />
       <Stack direction="row">
         <Button

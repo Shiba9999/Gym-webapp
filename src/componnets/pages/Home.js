@@ -7,7 +7,6 @@ import Exercises from '../Exercises'
 const Home = () => {
   const [exercises, setExercises] = useState([]);
   const [bodyPart, setBodyPart] = useState("all");
-
   return (
     <Box>
        <Herobanner/>
